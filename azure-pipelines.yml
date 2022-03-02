@@ -19,6 +19,7 @@ trigger:
   paths:
     include: 
       - wwwroot
+pr:
 
 pool:
   vmImage: ubuntu-latest
