@@ -7,7 +7,7 @@ parameters:
 - name: succeed
   displayName: Succeed
   type: boolean
-  default: false
+  default: true
 
 trigger:
   branches:
